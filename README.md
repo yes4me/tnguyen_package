@@ -2,6 +2,7 @@ CREATING THE PACKAGE
 ===============
 
 - create setup.py
+    - zip_safe: can this package comes from a zip file?
 - create a folder inside that folder with the name of the Python package, and add __init__.py
 
 INSTALLATION

@@ -1,0 +1,15 @@
+__pycache__
+**/.DS_Store
+**/Thumbs.db
+
+# Virtual environment
+venv/
+# jetbrains related
+.idea
+# python related
+*.pyc
+# lock/backup files
+.~lock.*
+~*
+# for emacs
+*~
