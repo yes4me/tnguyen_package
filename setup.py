@@ -11,7 +11,3 @@ setup(
     packages=['tnguyen_package'],
     zip_safe=False,
 )
-
-
-def my_print(name):
-    print("hello world", name)

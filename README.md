@@ -14,3 +14,4 @@ REFERENCES
 
 - [Python package repository](https://github.com/yes4me/tnguyen_package)
 - [youtube tutorial](https://www.youtube.com/watch?v=EW04J_x4hNQ)
+- [youtube tutorial](https://www.youtube.com/watch?v=FkmtmYFTlYE)
