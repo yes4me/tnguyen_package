@@ -1,1 +1,1 @@
-from .tnguyen_package import tnguyen_package
+from tnguyen_package import tnguyen_package
